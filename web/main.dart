@@ -7,7 +7,7 @@ import 'GameHost.dart';
 
 void main() {
   // just for testing
-  querySelector('#dada').text = 'Arghhhhhhhhhhhhhhhhh';
+  // querySelector('#dada').text = 'Arghhhhhhhhhhhhhhhhh';
   print('in main');
 
   final CanvasElement canvas = querySelector("#area");
